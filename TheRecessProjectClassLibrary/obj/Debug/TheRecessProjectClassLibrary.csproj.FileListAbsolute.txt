@@ -1,0 +1,5 @@
+c:\users\martin\documents\visual studio 2015\Projects\TheRecessProject\TheRecessProjectClassLibrary\bin\Debug\TheRecessProjectClassLibrary.dll
+c:\users\martin\documents\visual studio 2015\Projects\TheRecessProject\TheRecessProjectClassLibrary\bin\Debug\TheRecessProjectClassLibrary.pdb
+c:\users\martin\documents\visual studio 2015\Projects\TheRecessProject\TheRecessProjectClassLibrary\obj\Debug\TheRecessProjectClassLibrary.csprojResolveAssemblyReference.cache
+c:\users\martin\documents\visual studio 2015\Projects\TheRecessProject\TheRecessProjectClassLibrary\obj\Debug\TheRecessProjectClassLibrary.dll
+c:\users\martin\documents\visual studio 2015\Projects\TheRecessProject\TheRecessProjectClassLibrary\obj\Debug\TheRecessProjectClassLibrary.pdb
